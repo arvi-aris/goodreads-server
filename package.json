@@ -1,0 +1,30 @@
+{
+  "name": "goodreads-server",
+  "version": "1.0.0",
+  "description": "Goodreads server point",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/arvi-aris.git"
+  },
+  "keywords": [
+    "nodejs",
+    "goodreads-api",
+    "expressjs"
+  ],
+  "author": "Aravindh Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/arvi-aris/issues"
+  },
+  "homepage": "https://github.com/github.com/arvi-aris#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "xml2js": "^0.4.19"
+  }
+}
